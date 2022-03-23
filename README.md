@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 <hr>
 
 ### This is My Guthub Stats
-<p>
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=1Nelsonel&show_icons=true&theme=radical)
-</p>
+ [![Github stats](https://github-readme-stats.vercel.app/api?username=1Nelsonel&show_icons=true&theme=radical)
+<hr>
 
 
 
