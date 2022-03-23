@@ -1,8 +1,7 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Hallo Folks 👋</h1>
+<h1 align="center"> Hallo Folks 👋</h1>
 <h3 align="center">I am a Software Engineer and Data Science Enthusiast.</h3>
-### Hi there 👋
 
-**1Nelsonel/1Nelsonel** is a ✨ _special_ ✨ 
+**1Nelsonel/1Nelsonel** ✨ _Quick Details_ ✨ 
 
 - 🔭 I’m currently working on Django Python
 - 🌱 I’m currently learning Data Science and Machine Learning
@@ -57,7 +56,7 @@
 
   <br/>
     <a href="https://github.com/1Nelsonel/github-readme-stats"><img alt="1Nelsonel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=1Nelsonel&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/1Nelsonel/github-readme-stats"><img alt="1Nelsonel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Nelsonel&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/1Nelsonel/github-readme-stats"><img alt="1Nelsonel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Nelsonel&langs_count=8&count=true&layout=radical&theme=radical&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
 
