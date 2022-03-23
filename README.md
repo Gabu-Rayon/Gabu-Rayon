@@ -50,7 +50,7 @@
 
   <br/>
   <a href="https://github.com/1Nelsonel/github-readme-stats"><img alt="1Nelsonel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=1Nelsonel&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a> 
- <a href="https://github.com/1Nelsonel/github-readme-stats"><img alt="1Nelsonel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Nelsonel&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+ <a href="https://github.com/1Nelsonel/github-readme-stats"><img alt="1Nelsonel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Nelsonel&langs_count=8&count_private=true&layout=radical&theme=radical&hide_border=true&bg_color=0D1117" /></a>
    <br/>
 
 
