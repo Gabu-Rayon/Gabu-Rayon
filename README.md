@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 <hr>
 
 ### Mostly Used Language
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=1Nelsonel&langs_count=8&show_icons=true&theme=radical)](https://github.com/1Nelsonel/github-readme-stats)
+
 <hr>
 
 ### This is My Guthub Stats
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=1Nelsonel&langs_count=8&show_icons=true&theme=radical)](https://github.com/1Nelsonel/github-readme-stats)
+
 ![](https://github-readme-stats.vercel.app/api?username=1Nelsonel&show_icons=true&theme=radical)
 <hr>
 
