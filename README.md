@@ -45,11 +45,11 @@
 
 <br/>
 <p align="center">
-    <h3> Nelson Mokoro's Contributions <h3/>
-    <a href="https://github.com/1Nelsonel/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="1Nelsonel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1Nelsonel&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <h3> Nelson Mokoro's Contributions <h3/>
+    <a href="https://github.com/1Nelsonel/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="1Nelsonel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1Nelsonel&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+<br/>
 
   <br/>
   <p align="center">
