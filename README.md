@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Football and Music
 <hr>
 
+### Mostly Used Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Nelsonel&langs_count=8)](https://github.com/1Nelsonel/github-readme-stats)
+
 ### This is My Guthub Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=1Nelsonel)
  <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=1Nelsonel>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=1Nelsonel>
+  <img src = "https://github-readme-streak-stats.app/api?username=1Nelsonel>
 </p>
 
 
