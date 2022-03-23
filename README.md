@@ -21,7 +21,8 @@
 #### Mostly Used language
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=1Nelsonel&langs_count=8&show_icons=true&theme=radical)](https://github.com/1Nelsonel/github-readme-stats)
 
-####Other stas
+
+####Other stats
 ![](https://github-readme-stats.vercel.app/api?username=1Nelsonel&show_icons=true&theme=radical)
 <hr>
 
