@@ -6,8 +6,8 @@
 - 🔭 I’m currently working on Django Python
 - 🌱 I’m currently learning Data Science and Machine Learning
 - 👯 I’m looking to collaborate on NodeJS
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ...
+- 🤔 I’m looking for help with React JS
+- 💬 Ask me about Data cleaning, Exploration and Visualization.
 - 📫 How to reach me: nelsonmokoro37@gmail.com
 - 😄 Pronouns: Mr Nelson Mokoro
 - ⚡ Fun fact: Football and Music
@@ -36,17 +36,19 @@
  </p>
 
 
-<p align="center">
-    <a href="https://github.com/1Nelsonel/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="1Nelsonel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1Nelsonel&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
 <hr>
 
 
 
 ## 📊 My Github Stats
+
+<br/>
+<p align="center">
+    <a href="https://github.com/1Nelsonel/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="1Nelsonel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1Nelsonel&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
   <br/>
   <a href="https://github.com/1Nelsonel/github-readme-stats"><img alt="1Nelsonel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=1Nelsonel&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a> 
