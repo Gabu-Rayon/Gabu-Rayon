@@ -20,11 +20,10 @@ Here are some ideas to get you started:
 <hr>
 
 ### This is My Guthub Stats
-[![](https://github-readme-stats.vercel.app/api?username=1Nelsonel&show_icons=true&theme=radical)]
+![](https://github-readme-stats.vercel.app/api?username=1Nelsonel&show_icons=true&theme=radical)
 <hr>
 
 ### Stats
-img align="center" src="https://github-readme-stats.vercel.app/api?username=1Nelsonel&show_icons=true&theme=radical" />
-</a>
+
 
 
