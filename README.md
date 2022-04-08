@@ -1,4 +1,4 @@
-<h1 align="center"> Hallo Folks 👋</h1>
+<h1 align="center"> Hello Folks 👋</h1>
 <h3 align="center">I am a Software Engineer and Data Science Enthusiast.</h3>
 
 **1Nelsonel/1Nelsonel** ✨ _Quick Details_ ✨ 
