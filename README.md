@@ -66,7 +66,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/1Nelsonel/github-readme-activity-graph"><img alt="1Nelsonel Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=1Nelsonel&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![1Nelsonel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=1Nelsonel&theme=dracula)](https://github.com/1Nelsonel/github-readme-activity-graph)
 
 <hr>            
 <hr>
