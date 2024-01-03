@@ -3,7 +3,7 @@
 
 **1Nelsonel/1Nelsonel** ✨ _Quick Details_ ✨ 
 
-- 🔭 I’m currently working on Django Python
+- 🔭 I’m currently working on Django Python & Go Fiber
 - 🌱 I’m currently learning Data Science and Machine Learning
 - 👯 I’m looking to collaborate on NodeJS
 - 🤔 I’m looking for help with React JS
@@ -36,6 +36,8 @@
 <!--   golang    -->
     <a href="https://go.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="golang" width="50" height="50"/>
     </a> 
+    <a href="https://github.com/gofiber/fiber" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Golang Fiber" width="40" height="40"/></a>
+
  </p>
 
 
