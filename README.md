@@ -36,7 +36,7 @@
 <!--   golang    -->
     <a href="https://go.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="golang" width="50" height="50"/>
     </a> 
-    <a href="https://github.com/gofiber/fiber" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Golang Fiber" width="40" height="40"/></a>
+    <a href="https://github.com/gofiber/fiber" target="_blank"><img src="https://docs.gofiber.io/img/logo.svg" alt="Golang Fiber" width="40" height="40"/></a>
 
  </p>
 
