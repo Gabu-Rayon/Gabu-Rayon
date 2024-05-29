@@ -1,16 +1,16 @@
 <h1 align="center"> Hello Folks 👋</h1>
-<h3 align="center">I am a Software Engineer and Data Science Enthusiast.</h3>
+<h3 align="center">I am a Software Enginee,WEB3 & CyrptoCurrency Enthusiast.</h3>
 
-**1Nelsonel/1Nelsonel** ✨ _Quick Details_ ✨ 
+**Gabu-Rayon/Gabu-Rayon** ✨ _Quick Details_ ✨ 
 
-- 🔭 I’m currently working on Django Python & Go Fiber
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 👯 I’m looking to collaborate on NodeJS
+- 🔭 I’m currently working on React JS and Golang MongoDb
+- 🌱 I’m currently learning Data Science,AI,and Machine Learning
+- 👯 I’m looking to collaborate on PHP Projects
 - 🤔 I’m looking for help with React JS
-- 💬 Ask me about Data cleaning, Exploration and Visualization.
-- 📫 How to reach me: nelsonmokoro37@gmail.com
-- 😄 Pronouns: Mr Nelson Mokoro
-- ⚡ Fun fact: Football and Music
+- 💬 Ask me about Software Developemnt, Apis Integrations.
+- 📫 How to reach me: gibsonmurimi4@gmail.com,iamtobago254@gmail.com
+- 😄 Pronouns: He/Him/Mr/Sir
+- ⚡ Fun fact: Inline Skater and IT Tutor
 <hr>
 <hr>
 
@@ -53,8 +53,8 @@
 
 <br/>
 <p align="center">
-        <h3> Nelson Mokoro's Contributions <h3/>
-    <a href="https://github.com/1Nelsonel/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="1Nelsonel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1Nelsonel&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <h3> Gabu Rayon's Contributions <h3/>
+    <a href="https://github.com/Gabu-Rayon/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gabu-Rayon streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabu-Rayon&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 
 <br/>
@@ -62,16 +62,16 @@
 
   <br/>
   
-  <a href="https://github.com/1Nelsonel/github-readme-stats"><img alt="1Nelsonel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=1Nelsonel&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a> 
+  <a href="https://github.com/Gabu-Rayon/github-readme-stats"><img alt="Gabu-Rayon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gabu-Rayon&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a> 
   <br/>
    <hr>         
- <a href="https://github.com/1Nelsonel/github-readme-stats"><img alt="1Nelsonel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Nelsonel&langs_count=8&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+ <a href="https://github.com/Gabu-Rayon/github-readme-stats"><img alt="Gabu-Rayon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabu-Rayon&langs_count=8&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
    <br/>
 <hr>
 
 <br/>
 <br/>
-<a href="https://github.com/1Nelsonel/github-readme-activity-graph"><img alt="1Nelsonel Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=1Nelsonel&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Gabu-Rayon/github-readme-activity-graph"><img alt="Gabu-Rayon Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Gabu-Rayon&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 
