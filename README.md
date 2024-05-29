@@ -1,5 +1,5 @@
 <h1 align="center"> Hello Folks 👋</h1>
-<h3 align="center">I am a Software Enginee,WEB3 & CyrptoCurrency Enthusiast.</h3>
+<h3 align="center">I am a Software Engineer,WEB3 & CyrptoCurrency Enthusiast.</h3>
 
 **Gabu-Rayon/Gabu-Rayon** ✨ _Quick Details_ ✨ 
 
